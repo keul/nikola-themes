@@ -1,0 +1,4 @@
+assets/css/all-nocdn.css=foundation.min.css,rst.css,code.css,theme.css,custom.css
+assets/css/all.css=rst.css,code.css,theme.css,custom.css
+assets/js/all-nocdn.js=foundation.min.js
+assets/js/all.js=foundation.min.js
